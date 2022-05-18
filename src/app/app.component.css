@@ -1,0 +1,21 @@
+body{
+    text-align: center
+}
+form{
+    margin-top: 90px;
+}
+label{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: 15px;
+}
+input{
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+button{
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: white;
+}
